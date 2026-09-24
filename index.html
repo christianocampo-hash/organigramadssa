@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#145c62" />
+    <meta name="description" content="Visualizador accesible del organigrama institucional de la Dirección / Servicio de Salud." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Organigrama institucional · Servicio de Salud</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#organigrama">Saltar al organigrama</a>
+    <div class="app-shell" id="app">
+      <div class="top-ribbon" aria-hidden="true"><span></span><span></span><span></span></div>
+      <header class="site-header">
+        <div class="container header-inner">
+          <div class="brand-lockup">
+            <div class="brand-symbol" aria-hidden="true">+</div>
+            <div><span class="brand-kicker">Servicio de salud</span><strong>Organigrama institucional</strong></div>
+          </div>
+          <div class="header-meta"><span class="status-pill"><span class="status-dot"></span>Estructura 2026</span><span class="updated-label">Actualizado 23 sept. 2026</span></div>
+        </div>
+      </header>
+
+      <main>
+        <section class="hero-section">
+          <div class="container hero-grid">
+            <div class="hero-copy">
+              <p class="section-label"><span class="label-line"></span>Mapa de la organización</p>
+              <h1>Personas, equipos <em>y propósito.</em></h1>
+              <p class="hero-intro">Explora la estructura de la Dirección / Servicio de Salud. Selecciona cualquier cargo para conocer a la persona responsable y su unidad.</p>
+              <div class="hero-actions"><a class="primary-action" href="#organigrama">Explorar organigrama <span aria-hidden="true">↓</span></a><div class="quick-stat"><strong id="hero-count">—</strong><span>cargos<br>en el mapa</span></div></div>
+            </div>
+            <aside class="hero-note"><div class="note-icon" aria-hidden="true">◉</div><p><strong>Información visible y editable</strong>Los nombres y fotos provienen de un archivo JSON independiente. Reemplázalos allí para mantener la estructura actualizada.</p><span class="note-number">01</span></aside>
+          </div>
+        </section>
+
+        <section class="control-bar" aria-label="Controles de accesibilidad">
+          <div class="container control-inner">
+            <div class="control-heading"><span aria-hidden="true">♿</span><span>Herramientas de accesibilidad</span></div>
+            <div class="control-group" role="group" aria-label="Tamaño del texto"><span class="control-label">Texto</span><button class="icon-button" type="button" data-action="font-down" aria-label="Disminuir tamaño del texto">−</button><span class="scale-readout" id="scale-readout" aria-live="polite">100%</span><button class="icon-button" type="button" data-action="font-up" aria-label="Aumentar tamaño del texto">+</button></div>
+            <div class="control-divider"></div>
+            <button class="contrast-button" type="button" data-action="contrast" aria-pressed="false"><span aria-hidden="true">◐</span><span>Invertir colores</span></button>
+            <span class="keyboard-hint">Enfoque de teclado activo</span>
+          </div>
+        </section>
+
+        <section class="directory-section" id="organigrama" aria-labelledby="directory-title">
+          <div class="container directory-toolbar">
+            <div><p class="section-label"><span class="label-line"></span>Directorio visual</p><h2 id="directory-title">Estructura institucional</h2></div>
+            <div class="search-wrap"><span aria-hidden="true">⌕</span><label class="sr-only" for="search-directory">Buscar por nombre, cargo o unidad</label><input id="search-directory" type="search" placeholder="Buscar cargo o persona" autocomplete="off"><button class="clear-search" type="button" data-action="clear-search" aria-label="Limpiar búsqueda">×</button><div class="search-results" id="search-results" role="listbox" aria-label="Resultados de búsqueda"></div></div>
+          </div>
+          <div class="container org-chart" id="org-chart" aria-label="Organigrama de la Dirección / Servicio de Salud"><div class="loading-state">Cargando estructura institucional…</div></div>
+        </section>
+
+        <section class="accessibility-footer"><div class="container accessibility-footer-inner"><div><span class="section-label"><span class="label-line"></span>Diseñado para ser consultado por todos</span><h2>La información también debe ser accesible.</h2></div><div class="footer-stats"><div class="stat-block"><strong id="footer-count">—</strong><span>cargos visibles</span></div><div class="stat-block"><strong>JSON</strong><span>fuente editable</span></div><div class="stat-block"><strong>AA</strong><span>contraste cuidado</span></div></div></div></section>
+      </main>
+      <footer class="site-footer"><div class="container footer-inner"><span>Dirección / Servicio de Salud</span><span>Visualizador institucional · versión 2026</span></div></footer>
+    </div>
+
+    <dialog class="profile-modal" id="profile-modal" aria-labelledby="profile-title">
+      <button class="modal-close" type="button" data-action="close-modal" aria-label="Cerrar perfil">×</button>
+      <div class="profile-topline"><span class="profile-tag">Ficha de cargo</span><span class="profile-id" id="profile-id"></span></div>
+      <div class="profile-content"><div class="profile-photo-wrap"><img class="profile-photo" id="profile-photo" alt=""><span class="photo-ring" aria-hidden="true"></span></div><div class="profile-copy"><p class="section-label"><span class="label-line"></span><span id="profile-unit"></span></p><h2 id="profile-title"></h2><p class="profile-name" id="profile-name"></p><p class="profile-bio" id="profile-bio"></p><div class="profile-status"><span class="status-dot"></span>Perfil listo para actualizar</div></div></div>
+      <div class="profile-footer"><span>Datos gestionados en <strong>data/organigrama.json</strong></span><button type="button" data-action="close-modal">Cerrar ficha <span aria-hidden="true">→</span></button></div>
+    </dialog>
+    <div class="sr-only" id="announcer" aria-live="polite"></div>
+    <script src="app.js" defer></script>
+  </body>
+</html>

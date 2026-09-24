@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "title": "Organigrama Dirección / Servicio de Salud",
+    "subtitle": "Estructura institucional 2026",
+    "updatedAt": "2026-09-23",
+    "profileNote": "Los nombres y fotografías son campos editables para completar con información oficial."
+  },
+  "root": {
+    "id": "direccion-servicio-salud",
+    "cargo": "Directoria / Servicio de Salud",
+    "name": "Nombre por actualizar",
+    "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23d8f3ee'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%231a5d63'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%231a5d63'/%3E%3C/svg%3E",
+    "unit": "Dirección / Servicio de Salud",
+    "bio": "Perfil institucional pendiente de actualización."
+  },
+  "topDepartments": [
+    {
+      "id": "auditoria",
+      "cargo": "Jefe/a departamento de auditoría",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e7e1ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235d4fa3'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235d4fa3'/%3E%3C/svg%3E",
+      "unit": "Departamento de Auditoría",
+      "bio": "Área asesora y de control institucional."
+    },
+    {
+      "id": "juridico",
+      "cargo": "Jefe/a departamento jurídico",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23fff0d6'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a8642b'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a8642b'/%3E%3C/svg%3E",
+      "unit": "Departamento Jurídico",
+      "bio": "Área asesora en materias jurídicas."
+    },
+    {
+      "id": "gabinete",
+      "cargo": "Jefe/a departamento de gabinete",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23ffe3e0'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a94d55'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a94d55'/%3E%3C/svg%3E",
+      "unit": "Departamento de Gabinete",
+      "bio": "Área de coordinación y apoyo directo a la dirección."
+    },
+    {
+      "id": "asuntos-publicos",
+      "cargo": "Jefe/a departamento de asuntos públicos y gestión usuario",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23dff0ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%233b6b9d'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%233b6b9d'/%3E%3C/svg%3E",
+      "unit": "Departamento de Asuntos Públicos y Gestión Usuario",
+      "bio": "Área de vinculación pública y experiencia usuaria."
+    },
+    {
+      "id": "comunicaciones",
+      "cargo": "Jefe/a departamento de comunicaciones estratégicas",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e3f4dd'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235b8651'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235b8651'/%3E%3C/svg%3E",
+      "unit": "Departamento de Comunicaciones Estratégicas",
+      "bio": "Área de comunicaciones institucionales."
+    }
+  ],
+  "supportRoles": [
+    {
+      "id": "secretaria-direccion",
+      "cargo": "Secretaria dirección",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e7e1ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235d4fa3'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235d4fa3'/%3E%3C/svg%3E",
+      "unit": "Apoyo a la Dirección",
+      "bio": "Rol de apoyo administrativo a la Dirección."
+    },
+    {
+      "id": "oficina-partes",
+      "cargo": "Encargado/a administrativo/a oficina de partes",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23fff0d6'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a8642b'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a8642b'/%3E%3C/svg%3E",
+      "unit": "Oficina de Partes",
+      "bio": "Rol administrativo de recepción y distribución documental."
+    }
+  ],
+  "subdirectorates": [
+    {
+      "id": "establecimientos-red",
+      "cargo": "Directores/as establecimientos de la red",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23d8f3ee'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%231a5d63'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%231a5d63'/%3E%3C/svg%3E",
+      "unit": "Establecimientos de la Red",
+      "bio": "Dirección de establecimientos que integran la red asistencial.",
+      "children": []
+    },
+    {
+      "id": "gestion-asistencial",
+      "cargo": "Subdirector/a de gestión asistencial",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23dff0ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%233b6b9d'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%233b6b9d'/%3E%3C/svg%3E",
+      "unit": "Subdirección de Gestión Asistencial",
+      "bio": "Coordina la gestión clínica y asistencial de la red.",
+      "children": [
+        {
+          "id": "secretaria-asistencial",
+          "cargo": "Secretaria subdirección",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e7e1ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235d4fa3'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235d4fa3'/%3E%3C/svg%3E",
+          "unit": "Apoyo a la Subdirección de Gestión Asistencial",
+          "bio": "Rol de apoyo administrativo a la subdirección."
+        },
+        {
+          "id": "procesos-clinicos-estrategicos",
+          "cargo": "Jefe/a departamento gestión de procesos clínicos estratégicos",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23ffe3e0'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a94d55'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a94d55'/%3E%3C/svg%3E",
+          "unit": "Gestión Asistencial",
+          "bio": "Gestiona procesos clínicos estratégicos."
+        },
+        {
+          "id": "atencion-primaria",
+          "cargo": "Director/a departamento de atención primaria de salud",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e3f4dd'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235b8651'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235b8651'/%3E%3C/svg%3E",
+          "unit": "Gestión Asistencial",
+          "bio": "Coordina la atención primaria de salud."
+        },
+        {
+          "id": "procesos-clinicos-transversales",
+          "cargo": "Jefe/a departamento de procesos clínicos transversales",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23d8f3ee'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%231a5d63'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%231a5d63'/%3E%3C/svg%3E",
+          "unit": "Gestión Asistencial",
+          "bio": "Coordina procesos clínicos transversales."
+        },
+        {
+          "id": "apoyo-diagnostico",
+          "cargo": "Jefe/a departamento apoyo diagnóstico terapéutico",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23dff0ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%233b6b9d'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%233b6b9d'/%3E%3C/svg%3E",
+          "unit": "Gestión Asistencial",
+          "bio": "Coordina el apoyo diagnóstico y terapéutico."
+        },
+        {
+          "id": "informacion-demanda",
+          "cargo": "Jefe/a departamento gestión información y demanda asistencial",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23fff0d6'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a8642b'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a8642b'/%3E%3C/svg%3E",
+          "unit": "Gestión Asistencial",
+          "bio": "Gestiona la información y la demanda asistencial."
+        },
+        {
+          "id": "control-gestion",
+          "cargo": "Jefe/a departamento de control de gestión y mejora continua",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e7e1ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235d4fa3'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235d4fa3'/%3E%3C/svg%3E",
+          "unit": "Gestión Asistencial",
+          "bio": "Coordina el control de gestión y la mejora continua."
+        }
+      ]
+    },
+    {
+      "id": "recursos-fisicos-financieros",
+      "cargo": "Subdirector/a de gestión de recursos físicos y financieros",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23fff0d6'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a8642b'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a8642b'/%3E%3C/svg%3E",
+      "unit": "Subdirección de Gestión de Recursos Físicos y Financieros",
+      "bio": "Coordina la gestión de recursos físicos y financieros.",
+      "children": [
+        {
+          "id": "secretaria-recursos",
+          "cargo": "Secretaria subdirección",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e7e1ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235d4fa3'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235d4fa3'/%3E%3C/svg%3E",
+          "unit": "Apoyo a la Subdirección de Recursos Físicos y Financieros",
+          "bio": "Rol de apoyo administrativo a la subdirección."
+        },
+        {
+          "id": "finanzas",
+          "cargo": "Jefe/a departamento de finanzas",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e3f4dd'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235b8651'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235b8651'/%3E%3C/svg%3E",
+          "unit": "Recursos Físicos y Financieros",
+          "bio": "Gestiona los procesos financieros institucionales."
+        },
+        {
+          "id": "compras-logistica",
+          "cargo": "Jefe/a departamento de compras y logística",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23ffe3e0'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a94d55'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a94d55'/%3E%3C/svg%3E",
+          "unit": "Recursos Físicos y Financieros",
+          "bio": "Gestiona compras, abastecimiento y logística."
+        },
+        {
+          "id": "recursos-fisicos",
+          "cargo": "Jefe/a departamento de recursos físicos",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23d8f3ee'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%231a5d63'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%231a5d63'/%3E%3C/svg%3E",
+          "unit": "Recursos Físicos y Financieros",
+          "bio": "Gestiona los recursos físicos institucionales."
+        },
+        {
+          "id": "mantenimiento",
+          "cargo": "Jefe/a departamento de mantenimiento y servicios generales",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23dff0ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%233b6b9d'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%233b6b9d'/%3E%3C/svg%3E",
+          "unit": "Recursos Físicos y Financieros",
+          "bio": "Coordina mantenimiento y servicios generales."
+        },
+        {
+          "id": "tecnologias-informacion",
+          "cargo": "Jefe/a departamento de tecnologías de información",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e7e1ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235d4fa3'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235d4fa3'/%3E%3C/svg%3E",
+          "unit": "Recursos Físicos y Financieros",
+          "bio": "Coordina tecnologías y sistemas de información."
+        }
+      ]
+    },
+    {
+      "id": "gestion-desarrollo-personas",
+      "cargo": "Subdirector/a de gestión y desarrollo de personas",
+      "name": "Nombre por actualizar",
+      "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23ffe3e0'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a94d55'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a94d55'/%3E%3C/svg%3E",
+      "unit": "Subdirección de Gestión y Desarrollo de Personas",
+      "bio": "Coordina la gestión y el desarrollo de las personas.",
+      "children": [
+        {
+          "id": "secretaria-personas",
+          "cargo": "Secretaria subdirección",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e7e1ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235d4fa3'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235d4fa3'/%3E%3C/svg%3E",
+          "unit": "Apoyo a la Subdirección de Gestión y Desarrollo de Personas",
+          "bio": "Rol de apoyo administrativo a la subdirección."
+        },
+        {
+          "id": "gestion-personas",
+          "cargo": "Jefe/a departamento de gestión de las personas",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23d8f3ee'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%231a5d63'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%231a5d63'/%3E%3C/svg%3E",
+          "unit": "Gestión y Desarrollo de Personas",
+          "bio": "Gestiona procesos relacionados con las personas."
+        },
+        {
+          "id": "desarrollo-organizacional",
+          "cargo": "Jefe/a departamento de desarrollo organizacional",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e3f4dd'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235b8651'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235b8651'/%3E%3C/svg%3E",
+          "unit": "Gestión y Desarrollo de Personas",
+          "bio": "Coordina el desarrollo organizacional."
+        },
+        {
+          "id": "seguridad-salud-trabajo",
+          "cargo": "Jefe/a departamento de seguridad y salud en el trabajo",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23dff0ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%233b6b9d'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%233b6b9d'/%3E%3C/svg%3E",
+          "unit": "Gestión y Desarrollo de Personas",
+          "bio": "Coordina seguridad y salud en el trabajo."
+        },
+        {
+          "id": "calidad-vida-beneficios",
+          "cargo": "Jefe/a departamento de calidad de vida y beneficios",
+          "name": "Nombre por actualizar",
+          "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23fff0d6'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a8642b'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a8642b'/%3E%3C/svg%3E",
+          "unit": "Gestión y Desarrollo de Personas",
+          "bio": "Coordina calidad de vida, beneficios y bienestar."
+        }
+      ]
+    }
+  ]
+}

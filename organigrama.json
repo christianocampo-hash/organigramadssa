@@ -8,7 +8,7 @@
   "root": {
     "id": "direccion-servicio-salud",
     "cargo": "Directoria / Servicio de Salud",
-    "name": "Nombre por actualizar",
+    "name": "Max Pizarro Pavez",
     "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23d8f3ee'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%231a5d63'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%231a5d63'/%3E%3C/svg%3E",
     "unit": "Dirección / Servicio de Salud",
     "bio": "Perfil institucional pendiente de actualización."
@@ -17,7 +17,7 @@
     {
       "id": "auditoria",
       "cargo": "Jefe/a departamento de auditoría",
-      "name": "Nombre por actualizar",
+      "name": "Fabiola Roa Gonzalez",
       "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e7e1ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235d4fa3'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235d4fa3'/%3E%3C/svg%3E",
       "unit": "Departamento de Auditoría",
       "bio": "Área asesora y de control institucional."
@@ -25,7 +25,7 @@
     {
       "id": "juridico",
       "cargo": "Jefe/a departamento jurídico",
-      "name": "Nombre por actualizar",
+      "name": "Mauricio Molina",
       "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23fff0d6'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a8642b'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a8642b'/%3E%3C/svg%3E",
       "unit": "Departamento Jurídico",
       "bio": "Área asesora en materias jurídicas."
@@ -33,7 +33,7 @@
     {
       "id": "gabinete",
       "cargo": "Jefe/a departamento de gabinete",
-      "name": "Nombre por actualizar",
+      "name": "Eslayne Portilla",
       "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23ffe3e0'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a94d55'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a94d55'/%3E%3C/svg%3E",
       "unit": "Departamento de Gabinete",
       "bio": "Área de coordinación y apoyo directo a la dirección."
@@ -41,7 +41,7 @@
     {
       "id": "asuntos-publicos",
       "cargo": "Jefe/a departamento de asuntos públicos y gestión usuario",
-      "name": "Nombre por actualizar",
+      "name": "Giovanni Rivera Tapia",
       "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23dff0ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%233b6b9d'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%233b6b9d'/%3E%3C/svg%3E",
       "unit": "Departamento de Asuntos Públicos y Gestión Usuario",
       "bio": "Área de vinculación pública y experiencia usuaria."
@@ -49,7 +49,7 @@
     {
       "id": "comunicaciones",
       "cargo": "Jefe/a departamento de comunicaciones estratégicas",
-      "name": "Nombre por actualizar",
+      "name": "Giovanni Rivera Tapia",
       "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e3f4dd'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235b8651'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235b8651'/%3E%3C/svg%3E",
       "unit": "Departamento de Comunicaciones Estratégicas",
       "bio": "Área de comunicaciones institucionales."
@@ -59,7 +59,7 @@
     {
       "id": "secretaria-direccion",
       "cargo": "Secretaria dirección",
-      "name": "Nombre por actualizar",
+      "name": "Paola Lemus",
       "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23e7e1ff'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%235d4fa3'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%235d4fa3'/%3E%3C/svg%3E",
       "unit": "Apoyo a la Dirección",
       "bio": "Rol de apoyo administrativo a la Dirección."
@@ -67,7 +67,7 @@
     {
       "id": "oficina-partes",
       "cargo": "Encargado/a administrativo/a oficina de partes",
-      "name": "Nombre por actualizar",
+      "name": "Sabina Ramos Cortes",
       "photo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Crect width='160' height='160' rx='80' fill='%23fff0d6'/%3E%3Ccircle cx='80' cy='64' r='28' fill='%23a8642b'/%3E%3Cpath d='M34 139c7-30 25-46 46-46s39 16 46 46' fill='%23a8642b'/%3E%3C/svg%3E",
       "unit": "Oficina de Partes",
       "bio": "Rol administrativo de recepción y distribución documental."
